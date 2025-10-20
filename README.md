@@ -1,6 +1,7 @@
 # Docker Compose Multi-Project Starter
 
-🐳 **start_containers** is a bash utility script that automates the startup of multiple Docker Compose projects from a configurable list of directories.
+🐳 start_containers is a Bash utility script designed to automate the startup of multiple Docker Compose projects from a configurable list of directories.
+This tool is especially useful for developers who need to run several containers simultaneously on their local machines during development. It simplifies the process by launching all required services with a single command, reducing setup time and minimizing manual effort.
 
 ## 🚀 Features
 
